@@ -1,0 +1,9 @@
+.list{
+  height: 150px;
+  width: 200px;
+  background-color: antiquewhite;
+  overflow: auto;
+}
+.news{
+  height: 30px;
+}
